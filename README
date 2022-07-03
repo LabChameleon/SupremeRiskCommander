@@ -1,0 +1,7 @@
+A little game that is supposed to be a combination of the games Risk and Supreme Commander. The game
+is not finished yet and only supports one player against a static AI. The player starts with a small
+amount of tanks. The terrain of the game is divided into many small rectangles of which the player
+only has vision when a tank is standing inside the rectangle. When a tank stands in a rectangle for
+30 seconds a new tank is spawned in the same rectangle. Thus the player has to balance how many
+tanks he is using for generating new armies and how many tanks he is moving around (thus not being
+able to create new tanks) for searching and defeating the enemy player.
